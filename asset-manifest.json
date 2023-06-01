@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/diploma_react-app/static/css/main.79257c22.css",
+    "main.js": "/diploma_react-app/static/js/main.edece9a4.js",
+    "static/media/user_img.jpg": "/diploma_react-app/static/media/user_img.251561541987e90fe468.jpg",
+    "static/media/person.png": "/diploma_react-app/static/media/person.37d9a4de2512f3d5c3cc.png",
+    "static/media/location.png": "/diploma_react-app/static/media/location.b9fc17f24409885c6615.png",
+    "static/media/tel.png": "/diploma_react-app/static/media/tel.67c64dcd57cb7788cf5c.png",
+    "index.html": "/diploma_react-app/index.html",
+    "main.79257c22.css.map": "/diploma_react-app/static/css/main.79257c22.css.map",
+    "main.edece9a4.js.map": "/diploma_react-app/static/js/main.edece9a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79257c22.css",
+    "static/js/main.edece9a4.js"
+  ]
+}
